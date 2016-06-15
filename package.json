@@ -1,0 +1,14 @@
+{
+  "name": "my_portfolio",
+  "version": "1.0.0",
+  "description": "First portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rigo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
