@@ -1,0 +1,48 @@
+html {
+  background-color: #4b6d61;
+  font-family: Verdana, sans-serif;
+}
+
+div#navigation {
+  background-color: #afd8d2;
+}
+
+#hheader {
+  text-align: center;
+  color: #C7E0DC;
+  font-size: 1.5em;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow:auto;
+  background-color: #c7e0dc;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  color: #3e774f;
+  font-family: Verdana, sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+  display: block;
+  padding: 8px;
+}
+
+.paragraph {
+  text-align: center;
+  color: #3e774f;
+  font-weight: bold;
+  font-style: normal;
+  background-color: #C7E0DC;
+  padding: 3px;
+}
+
+#image {
+  text-align: center;
+}
