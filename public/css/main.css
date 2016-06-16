@@ -13,6 +13,20 @@ div#navigation {
   font-size: 1.5em;
 }
 
+div.img {
+  width: 1220px;
+  margin: 0 auto;
+}
+
+div.img img {
+  width: 300px;
+  display: inline-block;
+}
+
+div.img img:hover {
+  border: 1px solid white;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -34,6 +48,11 @@ li a {
   padding: 8px;
 }
 
+li a:hover{
+  background-color: #3e774f;
+  color: white;
+}
+
 label {
   font-family: Verdana, sans-serif;
   font-weight: bold;
@@ -50,5 +69,12 @@ label {
 }
 
 #image {
-  text-align: center;
+  margin: 0 auto;
+  border: 2px solid #C7E0DC;
+  border-radius: 2px;
+}
+
+#boutmeimg {
+  margin: 0 auto;
+  width: 500px;
 }
